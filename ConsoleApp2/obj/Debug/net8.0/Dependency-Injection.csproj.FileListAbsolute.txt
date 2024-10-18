@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Dependency-Injection.exe
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Dependency-Injection.deps.json
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Dependency-Injection.runtimeconfig.json
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Dependency-Injection.dll
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net8.0\Dependency-Injection.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Dependency-Injection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Dependency-Injection.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Dependency-Injection.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Dependency-Injection.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Dependency-Injection.dll
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\refint\Dependency-Injection.dll
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Dependency-Injection.pdb
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\Dependency-Injection.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net8.0\ref\Dependency-Injection.dll
